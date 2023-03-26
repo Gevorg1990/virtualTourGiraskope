@@ -1,0 +1,21 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_10638595_1DC8_3B27_41B8_188A40BF80A3.label = Insta360-X3-13
+
+## Skin
+
+### Image
+Image_0C3E61A9_1E58_DB6F_4198_2ACBB8FF79F9.url = skin/Image_0C3E61A9_1E58_DB6F_4198_2ACBB8FF79F9_en.jpg
+
+### Label
+Label_0E061D87_1FD8_2B22_41A2_F98D4F848AB3.text = hello vr
+
+## Tour
+
+### Description
+
+### Title
+tour.name = mytour
