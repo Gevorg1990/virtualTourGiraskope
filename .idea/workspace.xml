@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5489d141-8b6d-4aac-a7af-1f56360973dc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/browserconfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/index.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tdvplayer.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/tdvplayer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tdvplayer.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/tdvplayer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locale/en.txt" beforeDir="false" afterPath="$PROJECT_DIR$/locale/en.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/panorama_10638595_1DC8_3B27_41B8_188A40BF80A3_0/b/0/0_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/panorama_10638595_1DC8_3B27_41B8_188A40BF80A3_0/d/0/0_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/panorama_10638595_1DC8_3B27_41B8_188A40BF80A3_0/f/0/0_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/panorama_10638595_1DC8_3B27_41B8_188A40BF80A3_0/l/0/0_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/panorama_10638595_1DC8_3B27_41B8_188A40BF80A3_0/r/0/0_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/panorama_10638595_1DC8_3B27_41B8_188A40BF80A3_0/u/0/0_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/panorama_10638595_1DC8_3B27_41B8_188A40BF80A3_hd_t.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/panorama_10638595_1DC8_3B27_41B8_188A40BF80A3_t.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/panorama_108F5E26_1CC1_A402_41BB_09D9C95050EE_0/b/0/0_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/panorama_108F5E26_1CC1_A402_41BB_09D9C95050EE_0/d/0/0_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/panorama_108F5E26_1CC1_A402_41BB_09D9C95050EE_0/f/0/0_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/panorama_108F5E26_1CC1_A402_41BB_09D9C95050EE_0/l/0/0_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/panorama_108F5E26_1CC1_A402_41BB_09D9C95050EE_0/r/0/0_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/panorama_108F5E26_1CC1_A402_41BB_09D9C95050EE_0/u/0/0_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/panorama_108F5E26_1CC1_A402_41BB_09D9C95050EE_hd_t.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/panorama_108F5E26_1CC1_A402_41BB_09D9C95050EE_t.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/icon150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/icon16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/icon180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/icon192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/icon32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/icon512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/icon64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script_general.js" beforeDir="false" afterPath="$PROJECT_DIR$/script_general.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script_mobile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/IconButton_0E6C5B20_1E49_EF1E_419B_69EAB78638B3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/IconButton_11A96FCE_1FC8_2725_4199_D47672192639.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/Image_0C3E61A9_1E58_DB6F_4198_2ACBB8FF79F9_en.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/Image_0E87AC16_1E59_E922_41A0_8BFE75851059_en.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/socialThumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thumbnail.png" beforeDir="false" afterPath="$PROJECT_DIR$/thumbnail.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2OBbXzOjiHdn6b8FgH5WrySMiYa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5489d141-8b6d-4aac-a7af-1f56360973dc" name="Default Changelist" comment="" />
+      <created>1681036972843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681036972843</updated>
+      <workItem from="1681036977202" duration="331000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

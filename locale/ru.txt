@@ -1,0 +1,43 @@
+#: locale=ru
+
+## Action
+
+### URL
+LinkBehaviour_4D8D5E25_42EB_71A5_41C9_F3CE6B145AF0.source = https://goo.gl/maps/MUZsfFqcQtJkLn4t7
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_535716AD_47A6_FEA5_41D1_044D7134A775.text = Go to
+HotspotPanoramaOverlayTextImage_6B095CBB_657B_CDBB_41C5_8269412EABC7.text = test \
+
+
+## Media
+
+### Audio
+audiores_53801C4E_47A9_31E6_418C_FEA9BDA0E427.mp3Url = media/audio_526A0B6A_47AA_F7AE_41B5_223CB5AC9E41_es.mp3
+audiores_53F162FA_4799_16AF_4198_D0621ED07D80.mp3Url = media/audio_5288F0AB_479E_F2AC_41BF_33C985C063B6_es.mp3
+audiores_52773C90_47EB_F17B_41A6_8667BF9B9BD6.mp3Url = media/audio_53D29D1B_47E9_136E_41A3_A381C2A5A90E_es.mp3
+
+### Image
+imlevel_6A5B7240_657D_D4C5_419D_1DB8EB8F4AD2.url = media/panorama_4E40FD7D_4299_13AA_41C3_FC2E7B53A17F_HS_oy8gdflm_es.png
+imlevel_5250CF32_47B9_0FBF_41B8_1E40A93F17F1.url = media/panorama_4E40FD7D_4299_13AA_41C3_FC2E7B53A17F_HS_vahx28b0_es.png
+
+### Title
+panorama_4E40FD7D_4299_13AA_41C3_FC2E7B53A17F.label = alex-bdnr-GNNoZa8zVwY-unsplash
+panorama_5366B3DF_42F9_16E6_41B5_3C83AF3438CE.label = marc-markstein-if4wsNq145o-unsplash
+
+## Skin
+
+### Image
+Image_4F573DA1_429B_135D_41B3_256004B7B359.url = skin/Image_4F573DA1_429B_135D_41B3_256004B7B359_ru.png
+
+### Label
+Label_565F6869_4379_11AD_41A8_B93D16DCED2A.text = явдум
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
