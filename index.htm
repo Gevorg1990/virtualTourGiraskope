@@ -367,7 +367,37 @@
 
   gtag('config', 'G-9V6D5S1RKR');
 
-	console.log(window.dataLayer)
+	fetch('https://analyticsreporting.googleapis.com/v4/reports:batchGet', {
+  method: 'POST',
+  headers: {
+    'Authorization': 'Bearer YOUR_ACCESS_TOKEN',
+    'Content-Type': 'application/json'
+  },
+  body: JSON.stringify({
+    reportRequests: [
+      {
+        viewId: 'YOUR_VIEW_ID',
+        dateRanges: [
+          {
+            startDate: 'YYYY-MM-DD',
+            endDate: 'YYYY-MM-DD'
+          }
+        ],
+        metrics: [
+          {
+            expression: 'ga:sessions'
+          }
+        ]
+      }
+    ]
+  })
+})
+.then(response => response.json())
+.then(data => {
+  console.log(data);
+  // Process the retrieved data as needed
+})
+.catch(error => console.error(error));
 </script>
 
 </body>
